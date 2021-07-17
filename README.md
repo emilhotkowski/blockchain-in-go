@@ -7,4 +7,4 @@ Learning more about Go and Blockchain by following this great series. https://je
 
 Geeez guys. My macbook is sweeting balls for just a few hashes. It really is a Proof-of-**WORK**
 
-![](https://i.imgur.com/qMSOoA3.png)
+![](https://imgur.com/7dsETsa.png)
